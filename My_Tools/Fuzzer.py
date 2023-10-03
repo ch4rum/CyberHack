@@ -2,7 +2,6 @@
 
 import signal, sys, argparse, requests
 from tqdm import tqdm
-from time import sleep
 
 __version__ = "Fuzzer 1.0"
 
